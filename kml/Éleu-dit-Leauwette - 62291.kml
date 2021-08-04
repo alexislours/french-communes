@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>62291</value>
+        </Data>
+        <Data name="nom">
+          <value>Éleu-dit-Leauwette</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Éleu-dit-Leauwette</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>116</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>2.8044532999999987,50.422579499360076 2.8122693999999995,50.42389949935981 2.8128954999999993,50.42109699936038 2.817017699999999,50.423815699359814 2.819992999999999,50.421592599360295 2.819093999999999,50.41962229936068 2.8229066999999985,50.41975259936068 2.8209744999999993,50.41904139936082 2.8215021999999994,50.41692459936125 2.8141530999999995,50.41429549936181 2.8113919999999997,50.41464359936174 2.8045009999999992,50.41413339936185 2.8033009999999994,50.415576499361535 2.801373199999999,50.41965719936069 2.8016464999999995,50.421513999360315 2.8044532999999987,50.422579499360076</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

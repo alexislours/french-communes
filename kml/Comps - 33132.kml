@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>33132</value>
+        </Data>
+        <Data name="nom">
+          <value>Comps</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Comps (Gironde)</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>171</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.6050402999999999,45.06328580046206 -0.6047199999999999,45.06545540046186 -0.6008992999999999,45.07023580046138 -0.5967082999999999,45.07267650046113 -0.5956734999999997,45.0719779004612 -0.5917184999999999,45.071962900461216 -0.5898221999999997,45.07252170046115 -0.5844482999999998,45.07282610046112 -0.5833881999999998,45.06773060046162 -0.5850369999999999,45.06511170046189 -0.5905744999999999,45.06156730046223 -0.5965863999999997,45.062183200462194 -0.5987476999999998,45.058722100462504 -0.6026569999999997,45.060440700462344 -0.6050402999999999,45.06328580046206</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

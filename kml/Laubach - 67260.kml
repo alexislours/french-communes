@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>67260</value>
+        </Data>
+        <Data name="nom">
+          <value>Laubach</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Laubach</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>167</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>7.707399899999999,48.880521499721944 7.711560299999999,48.88298129972133 7.719140299999998,48.88491259972084 7.726430099999996,48.889086199719806 7.726459899999998,48.8867147997204 7.728379399999996,48.884268899721015 7.725363699999996,48.88048969972196 7.724553299999998,48.878382599722464 7.721210599999999,48.87563249972315 7.719299799999998,48.871231299724236 7.714900899999999,48.87184599972409 7.712828199999998,48.87122009972425 7.708444099999999,48.87437899972346 7.708199999999998,48.87759609972267 7.706948299999998,48.87935549972223 7.707399899999999,48.880521499721944</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

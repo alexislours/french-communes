@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>10265</value>
+        </Data>
+        <Data name="nom">
+          <value>Les Noës-près-Troyes</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Les Noës-près-Troyes</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>74</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>4.030342299999999,48.30332649986443 4.041171099999999,48.306944599863535 4.041605799999999,48.30624289986371 4.046498099999999,48.30608149986375 4.0472627999999995,48.30701399986352 4.049846199999999,48.306023499863784 4.048375699999999,48.302694399864585 4.050866899999998,48.30039839986514 4.049874099999999,48.29950599986536 4.042629699999999,48.30012939986521 4.031958799999999,48.302532099864614 4.030342299999999,48.30332649986443</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

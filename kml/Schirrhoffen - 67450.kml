@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>67450</value>
+        </Data>
+        <Data name="nom">
+          <value>Schirrhoffen</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Schirrhoffen</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>66</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>7.915272299999996,48.80523989974062 7.926981099999998,48.810473899739314 7.930763099999999,48.81018219973941 7.9334690999999955,48.81135649973912 7.9374116999999975,48.81093259973922 7.935972499999997,48.8093331997396 7.9318086999999995,48.80692529974021 7.924521799999998,48.80497399974068 7.923644999999998,48.802436699741314 7.9183920999999975,48.80258319974128 7.915272299999996,48.80523989974062</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

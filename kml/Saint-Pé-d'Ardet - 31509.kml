@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>31509</value>
+        </Data>
+        <Data name="nom">
+          <value>Saint-Pé-d'Ardet</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Saint-Pé-d'Ardet</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>347</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>0.6644757999999997,42.99051450053631 0.6742654999999999,42.99136290053632 0.6823258999999998,42.99346600053638 0.6833699999999998,42.993474400536385 0.6917933999999999,42.99204190053635 0.6937522999999998,42.99093040053633 0.6998842999999999,42.987387200536226 0.6898048999999997,42.98216890053609 0.6885944999999998,42.980697800536056 0.6842386999999998,42.978581100536 0.6749179999999998,42.97744310053598 0.6720741999999997,42.979524300536035 0.6690834999999998,42.97928080053602 0.6659207999999998,42.98060710053605 0.6638133999999998,42.98391370053615 0.6644757999999997,42.99051450053631</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

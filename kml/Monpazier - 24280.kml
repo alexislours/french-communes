@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>24280</value>
+        </Data>
+        <Data name="nom">
+          <value>Monpazier</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Monpazier</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>52</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>0.8966857999999996,44.68767300049502 0.8970139999999999,44.686150000495125 0.8955517999999999,44.68297910049537 0.8971237999999996,44.680918600495545 0.8974605999999997,44.677243200495816 0.8921391999999998,44.67468260049601 0.8909861999999996,44.677473400495785 0.8912034999999998,44.680123500495604 0.8905856999999999,44.68190930049547 0.8909857999999998,44.68616820049513 0.8930058999999998,44.685141100495215 0.8954675999999998,44.68585720049516 0.8966857999999996,44.68767300049502</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

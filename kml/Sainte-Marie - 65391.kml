@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>65391</value>
+        </Data>
+        <Data name="nom">
+          <value>Sainte-Marie</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Sainte-Marie (Hautes-Pyrénées)</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>28</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>0.6192697999999998,42.97218840053584 0.6215449999999998,42.972683400535864 0.6258857999999999,42.97068750053579 0.6303427999999998,42.96963970053577 0.6354485999999998,42.96894390053575 0.6365873999999999,42.96799780053572 0.6323878999999999,42.967212800535705 0.6298832999999999,42.966346200535675 0.6287787999999997,42.96831570053573 0.6243965999999999,42.96902040053577 0.6212588999999997,42.970138400535795 0.6192697999999998,42.97218840053584</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

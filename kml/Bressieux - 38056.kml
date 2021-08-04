@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>38056</value>
+        </Data>
+        <Data name="nom">
+          <value>Bressieux</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Bressieux</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>89</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>5.286344899999999,45.322043200434294 5.2847963999999985,45.3186983004347 5.277740699999998,45.319192600434626 5.276409699999999,45.31756890043481 5.274636699999999,45.31677950043491 5.271103899999998,45.3193656004346 5.2706339999999985,45.322465600434235 5.271550199999998,45.3253775004339 5.2735069999999995,45.325233500433924 5.2756856999999995,45.326654100433764 5.278820199999999,45.326476600433786 5.2808956999999985,45.32523200043392 5.2849566999999995,45.323653000434106 5.286344899999999,45.322043200434294</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

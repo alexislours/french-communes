@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>90083</value>
+        </Data>
+        <Data name="nom">
+          <value>Recouvrance</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Recouvrance (Territoire de Belfort)</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>150</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>6.966838699999998,47.56568510003883 6.970816599999997,47.56879780003811 6.9775668999999985,47.57712820003624 6.983273599999999,47.5803072000355 6.985682399999998,47.58073830003542 6.986940999999997,47.57379970003698 6.986490699999997,47.57136140003754 6.984097899999997,47.568187900038254 6.980122899999997,47.566557700038636 6.979263899999998,47.565197900038925 6.980768599999998,47.563831400039255 6.9758397999999975,47.56288880003947 6.973314799999997,47.564539600039076 6.969580399999998,47.564922100039 6.966838699999998,47.56568510003883</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

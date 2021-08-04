@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>52455</value>
+        </Data>
+        <Data name="nom">
+          <value>Saint-Thiébault</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Saint-Thiébault</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>61</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>5.580612099999999,48.20454239988848 5.583301099999998,48.2039795998886 5.583062699999998,48.20196869988909 5.5815851999999975,48.197943499890066 5.580402699999998,48.197325499890205 5.575925499999998,48.19727029989022 5.574895299999998,48.19859989988989 5.572910599999998,48.19705309989025 5.571942799999999,48.19748719989018 5.569677899999999,48.199436199889696 5.573569199999998,48.20333289988877 5.576401699999998,48.203578299888704 5.5784392999999985,48.205615299888194 5.580612099999999,48.20454239988848</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

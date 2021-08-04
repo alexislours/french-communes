@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>63216</value>
+        </Data>
+        <Data name="nom">
+          <value>Mauzun</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Mauzun</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>103</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>3.4170332999999986,45.70078600038633 3.417394699999999,45.70226290038612 3.419793699999999,45.70454560038582 3.419934999999999,45.705603200385674 3.423132199999999,45.706744500385504 3.426080399999999,45.70894530038521 3.4282408999999996,45.709960900385056 3.433941499999999,45.710550500384976 3.433221099999999,45.70722140038546 3.4334697999999997,45.704201500385864 3.433089499999999,45.70193700038617 3.4321019999999987,45.70063100038636 3.428463999999999,45.7017460003862 3.425663999999999,45.69974800038647 3.4213509999999987,45.699160000386556 3.4170332999999986,45.70078600038633</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

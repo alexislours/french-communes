@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>73204</value>
+        </Data>
+        <Data name="nom">
+          <value>Le Pont-de-Beauvoisin</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Le Pont-de-Beauvoisin (Savoie)</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>184</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>5.673330999999999,45.54345930040731 5.675736199999999,45.54298340040736 5.676991499999999,45.541465500407554 5.680586999999998,45.541092900407605 5.684179999999999,45.54089690040763 5.688743799999998,45.53960680040778 5.690222799999998,45.538774200407886 5.691339499999999,45.53287210040865 5.691187099999999,45.527853400409285 5.687140099999998,45.528026900409266 5.684759099999998,45.52885720040916 5.680716199999997,45.52920090040912 5.676106799999998,45.530884100408905 5.674270099999998,45.53402470040852 5.672026199999999,45.53646050040819 5.669859199999999,45.53797350040799 5.671817999999997,45.53965660040778 5.673330999999999,45.54345930040731</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

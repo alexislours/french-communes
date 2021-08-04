@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>25555</value>
+        </Data>
+        <Data name="nom">
+          <value>Taillecourt</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Taillecourt</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>187</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>6.854226799999998,47.50178410005323 6.857127699999998,47.50090000005345 6.863236899999999,47.49797460005408 6.865578599999998,47.4978711000541 6.8644206999999975,47.487545900056425 6.8583612999999986,47.48637300005668 6.855913799999998,47.48837950005624 6.855215299999999,47.49187500005547 6.850330599999999,47.49161740005551 6.845982799999998,47.49201800005542 6.843303999999998,47.492726200055266 6.839929699999997,47.4925918000553 6.8406091999999985,47.49815740005405 6.844573399999998,47.498717200053925 6.849210699999998,47.49867550005395 6.853108099999999,47.499699800053705 6.854226799999998,47.50178410005323</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

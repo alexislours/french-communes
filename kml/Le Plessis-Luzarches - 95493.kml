@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>95493</value>
+        </Data>
+        <Data name="nom">
+          <value>Le Plessis-Luzarches</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Le Plessis-Luzarches</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>91</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>2.449776799999999,49.100801299667374 2.4569057999999995,49.10106309966733 2.458737599999999,49.099506599667706 2.4608339999999997,49.09948949966768 2.4652604999999994,49.09859089966793 2.4651762999999995,49.0962664996685 2.4628958999999986,49.09660319966842 2.462225599999999,49.09453839966892 2.4596935999999996,49.093386199669204 2.4568877999999996,49.09100609966982 2.4545280999999997,49.08979549967012 2.4510530999999998,49.0926270996694 2.4485675999999996,49.0930393996693 2.449351399999999,49.09524719966876 2.4518174999999993,49.098871499667865 2.4502942999999986,49.09941369966772 2.449776799999999,49.100801299667374</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

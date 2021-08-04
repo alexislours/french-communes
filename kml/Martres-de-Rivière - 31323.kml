@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>31323</value>
+        </Data>
+        <Data name="nom">
+          <value>Martres-de-Rivière</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Martres-de-Rivière</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>357</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>0.6274924999999998,43.08054550053836 0.6336645999999999,43.08673850053847 0.6391035999999999,43.09071640053855 0.6511830999999999,43.09571170053865 0.6543622999999997,43.083601000538415 0.6559788999999997,43.080882500538365 0.6564419999999997,43.076569700538265 0.6561775999999999,43.07171620053816 0.6547337999999998,43.07064520053815 0.6518577999999999,43.071895100538164 0.6491897999999998,43.07500920053823 0.6449243999999997,43.07392080053821 0.6425762999999999,43.075031900538235 0.6370674999999998,43.07637460053827 0.6359584999999996,43.07704650053828 0.6274924999999998,43.08054550053836</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>59494</value>
+        </Data>
+        <Data name="nom">
+          <value>Raucourt-au-Bois</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Raucourt-au-Bois</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>104</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>3.646417899999998,50.206361199406274 3.6507793999999985,50.20907679940568 3.6499188999999985,50.210818499405285 3.6546469999999998,50.21162319940513 3.658069499999998,50.21078159940531 3.6592246999999984,50.212418899404966 3.6606080999999993,50.212178899405 3.6670333999999993,50.209077599405674 3.6547366999999995,50.20035159940758 3.649636399999998,50.20430039940672 3.646417899999998,50.206361199406274</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

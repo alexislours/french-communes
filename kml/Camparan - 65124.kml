@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>65124</value>
+        </Data>
+        <Data name="nom">
+          <value>Camparan</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Camparan</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>238</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>0.34708019999999984,42.83657960053179 0.35103199999999996,42.839585200531886 0.3532663999999998,42.842514900532 0.3587850999999999,42.84274780053199 0.3629227999999999,42.83950440053189 0.36515399999999987,42.8365661005318 0.36485009999999996,42.83480890053173 0.3655240999999999,42.833000000531676 0.36422709999999986,42.822731500531326 0.3626774999999999,42.81846480053119 0.36116989999999993,42.82093810053126 0.3585852999999999,42.82318230053134 0.35452229999999996,42.82437080053138 0.3517295999999999,42.82946820053156 0.3484815999999999,42.83519820053175 0.34708019999999984,42.83657960053179</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

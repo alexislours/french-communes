@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>02143</value>
+        </Data>
+        <Data name="nom">
+          <value>Le Catelet</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Le Catelet</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>40</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>3.2358104999999986,50.002627599451685 3.2383233999999987,50.00341099945152 3.2417665999999987,50.003064099451585 3.244517699999999,50.004101699451354 3.2488381999999993,50.00223549945178 3.246721699999999,50.001060699452054 3.249160799999999,49.99872599945257 3.247238699999999,49.99745969945286 3.2427490999999993,49.998621999452595 3.239821899999999,49.99871159945257 3.237801899999999,49.99974739945235 3.237945299999999,50.001624699451895 3.2358104999999986,50.002627599451685</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

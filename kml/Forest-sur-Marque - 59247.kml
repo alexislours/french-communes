@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>59247</value>
+        </Data>
+        <Data name="nom">
+          <value>Forest-sur-Marque</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Forest-sur-Marque</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>105</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>3.185943999999999,50.638216699316395 3.188258999999999,50.638707699316306 3.192446499999999,50.63760869931652 3.1928141999999986,50.63540199931693 3.1967011999999992,50.63475439931709 3.1964323999999995,50.62741359931854 3.1940551999999998,50.62923969931815 3.1928238999999987,50.62936489931814 3.1912256999999995,50.628126899318396 3.190644399999999,50.62627129931875 3.186414799999999,50.626693999318675 3.1865995999999988,50.62938789931815 3.176833899999999,50.634035499317235 3.1821862999999992,50.63690209931667 3.185215499999999,50.63701849931664 3.185943999999999,50.638216699316395</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

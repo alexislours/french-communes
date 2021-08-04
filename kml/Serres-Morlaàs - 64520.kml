@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>64520</value>
+        </Data>
+        <Data name="nom">
+          <value>Serres-Morlaàs</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Serres-Morlaàs</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>386</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.2746072999999999,43.32091030054159 -0.27234119999999995,43.328036300541655 -0.2673993999999999,43.329758700541646 -0.2653417999999999,43.331554600541665 -0.26002699999999995,43.33299590054168 -0.24619749999999999,43.33324190054167 -0.24526699999999999,43.32836600054165 -0.24427259999999992,43.32557490054162 -0.25125089999999994,43.32003770054159 -0.25352109999999994,43.31850890054157 -0.2620240999999999,43.31131590054154 -0.2645575999999999,43.31233350054152 -0.2671739999999999,43.31434130054154 -0.2715272999999999,43.31623740054157 -0.2746072999999999,43.32091030054159</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

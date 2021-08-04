@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>65154</value>
+        </Data>
+        <Data name="nom">
+          <value>Créchets</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Créchets</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>95</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>0.5539865999999998,43.00061880053655 0.5686972999999999,43.00285880053659 0.5710930999999998,43.00414870053664 0.5742665999999997,43.00458530053666 0.5779160999999998,43.00615090053669 0.5777420999999999,43.00481400053666 0.5793077999999999,43.00122400053658 0.5786620999999998,42.99969040053653 0.5775914999999998,42.997084100536476 0.5760717999999998,42.99659730053646 0.5757111999999999,42.99792860053649 0.5726780999999999,42.99899840053652 0.5655899999999998,42.99816780053649 0.5642189999999999,42.997327100536474 0.5621819999999997,42.998162100536504 0.5539865999999998,43.00061880053655</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

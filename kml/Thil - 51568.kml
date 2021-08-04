@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>51568</value>
+        </Data>
+        <Data name="nom">
+          <value>Thil</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Thil (Marne)</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>214</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>3.968775599999998,49.326055499611996 3.969121799999999,49.3257051996121 3.980137699999999,49.31467879961478 3.973664799999998,49.3125124996153 3.9716567999999985,49.3109126996157 3.9666801999999985,49.31226149961536 3.9634100999999995,49.31192559961546 3.960911999999999,49.31092799961569 3.9595539999999985,49.311687399615515 3.956092799999999,49.31232819961535 3.9542135999999983,49.31314789961515 3.9534429999999983,49.314963899614725 3.9578972999999986,49.31833629961389 3.950759199999999,49.32213719961295 3.9648643999999997,49.32507899961224 3.968775599999998,49.326055499611996</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

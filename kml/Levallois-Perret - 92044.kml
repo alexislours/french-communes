@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>92044</value>
+        </Data>
+        <Data name="nom">
+          <value>Levallois-Perret</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Levallois-Perret</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>241</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>2.2710280999999997,48.89836949971751 2.2753008999999995,48.89979779971717 2.280684799999999,48.90097789971688 2.284255999999999,48.90223009971656 2.287375799999999,48.90363889971621 2.3037933999999987,48.89417069971856 2.295046999999999,48.88986929971962 2.2915042999999997,48.88945919971972 2.2856608999999994,48.88657069972044 2.2844587999999995,48.885637799720676 2.2710280999999997,48.89836949971751</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

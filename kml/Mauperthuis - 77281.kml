@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>77281</value>
+        </Data>
+        <Data name="nom">
+          <value>Mauperthuis</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Mauperthuis</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>196</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>3.028509599999999,48.76185589975138 3.0300504999999993,48.76404539975083 3.030169299999999,48.76579429975041 3.032192799999999,48.768804299749654 3.0349814999999993,48.77044769974924 3.037220099999999,48.77453919974824 3.037203199999999,48.77730559974754 3.0385527999999993,48.78248629974627 3.0438763999999985,48.78033359974681 3.0486711999999985,48.77643069974777 3.0442103999999994,48.77275619974869 3.046274999999999,48.766449799750255 3.0406287999999986,48.75992949975185 3.036922699999999,48.75990209975185 3.031002999999999,48.759352999752004 3.028509599999999,48.76185589975138</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

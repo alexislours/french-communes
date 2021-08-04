@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>33435</value>
+        </Data>
+        <Data name="nom">
+          <value>Saint-Macaire</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Saint-Macaire (Gironde)</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>213</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.2517728999999999,44.55933020050427 -0.2458145999999999,44.563525900504004 -0.2405292999999999,44.56565900050384 -0.23105419999999993,44.567852400503696 -0.21648359999999994,44.57105020050348 -0.21533769999999994,44.56839600050365 -0.21963979999999994,44.56641710050379 -0.21825609999999995,44.56313320050402 -0.2233653999999999,44.56111060050414 -0.22669879999999995,44.560207100504215 -0.23187259999999998,44.55939350050426 -0.23741769999999995,44.55884270050429 -0.2445684999999999,44.557493000504394 -0.24715229999999996,44.55743420050441 -0.2517728999999999,44.55933020050427</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

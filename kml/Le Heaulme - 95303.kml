@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>95303</value>
+        </Data>
+        <Data name="nom">
+          <value>Le Heaulme</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Le Heaulme</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>195</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>1.9915364999999994,49.16832219965071 1.9927670999999996,49.16981029965036 1.9924328999999992,49.17275979964965 1.9988054999999996,49.17514329964904 2.0015284999999996,49.17327189964951 2.0071469999999993,49.17305999964955 2.0122947999999994,49.16618279965126 2.0092113999999994,49.16286159965207 2.0066171999999995,49.1615733996524 1.9989305999999996,49.16021039965271 1.9958589999999996,49.15893429965303 1.9949816999999996,49.16028309965271 1.990174099999999,49.16182399965231 1.9895562999999998,49.16440159965169 1.9908885999999995,49.165918999651325 1.9915364999999994,49.16832219965071</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

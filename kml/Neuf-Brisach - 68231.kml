@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>68231</value>
+        </Data>
+        <Data name="nom">
+          <value>Neuf-Brisach</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Neuf-Brisach</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>133</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>7.519889699999998,48.02281879993223 7.524974199999999,48.02302129993219 7.5268818999999985,48.02430539993186 7.531231599999996,48.023453899932065 7.534333699999999,48.02214349993239 7.537123799999996,48.01851249993325 7.535282799999999,48.01410709993431 7.527696799999997,48.011258799934986 7.5227911999999995,48.013441799934476 7.519729399999999,48.01734089993354 7.520644599999998,48.01859719993325 7.520666299999998,48.02055069993275 7.518923499999999,48.02116899993263 7.519889699999998,48.02281879993223</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>95682</value>
+        </Data>
+        <Data name="nom">
+          <value>Villiers-le-Sec</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Villiers-le-Sec (Val-d'Oise)</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>325</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>2.3672182999999998,49.06828309967542 2.3702370999999998,49.07274559967431 2.375548699999999,49.071734099674565 2.3751539999999998,49.07503289967377 2.379550999999999,49.07820649967296 2.3964434999999997,49.08660259967086 2.4012959999999994,49.08306999967178 2.405291399999999,49.082556799671885 2.394866799999999,49.071957399674524 2.3975647999999996,49.07152229967462 2.3941368999999995,49.068809599675276 2.3857326999999993,49.06616169967595 2.386420499999999,49.068334699675404 2.375520499999999,49.063397399676624 2.372386399999999,49.065483599676114 2.3672182999999998,49.06828309967542</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

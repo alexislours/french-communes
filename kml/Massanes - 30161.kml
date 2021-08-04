@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>30161</value>
+        </Data>
+        <Data name="nom">
+          <value>Massanes</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Massanes (Gard)</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>169</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>4.106512199999999,44.027008800531725 4.108082099999999,44.02819330053168 4.109529599999999,44.02811970053169 4.110196499999999,44.0300872005316 4.111559999999999,44.02995960053162 4.118356299999999,44.030648200531594 4.119374999999998,44.024380700531815 4.1181798999999994,44.022565200531886 4.117203299999999,44.01797430053204 4.117688399999999,44.01721090053207 4.107808899999998,44.015551900532124 4.105345899999999,44.016688500532084 4.101085699999999,44.02062180053195 4.103697499999999,44.0250219005318 4.106512199999999,44.027008800531725</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

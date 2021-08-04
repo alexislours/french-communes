@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>11374</value>
+        </Data>
+        <Data name="nom">
+          <value>Salza</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Salza (Aude)</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>838</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>2.4788778999999996,42.979066300536 2.4852112999999996,42.985790000536184 2.5027690999999996,43.00209840053661 2.5179561999999995,42.995112200536425 2.534610499999999,42.986780800536216 2.5284851999999995,42.9822383005361 2.5174603999999996,42.975285000535905 2.5144401999999992,42.97302920053586 2.4984447999999992,42.97421060053588 2.4807752999999986,42.97564700053592 2.4788778999999996,42.979066300536</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

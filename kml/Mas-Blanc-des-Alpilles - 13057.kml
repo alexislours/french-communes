@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>13057</value>
+        </Data>
+        <Data name="nom">
+          <value>Mas-Blanc-des-Alpilles</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Mas-Blanc-des-Alpilles</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>157</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>4.7676378999999995,43.796238700538225 4.769259499999999,43.79173710053832 4.770143399999999,43.78652120053843 4.772765999999998,43.78235900053851 4.7658011999999985,43.781456100538534 4.760967899999999,43.781061300538525 4.759048799999999,43.78124130053854 4.754433099999999,43.79033480053834 4.754955599999998,43.79101120053833 4.763812299999999,43.79518500053824 4.7676378999999995,43.796238700538225</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

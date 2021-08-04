@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>33402</value>
+        </Data>
+        <Data name="nom">
+          <value>Sainte-Foy-la-Grande</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Sainte-Foy-la-Grande</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>57</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>0.21015909999999996,44.841693200482574 0.21404929999999994,44.84341250048242 0.22189379999999995,44.8447138004823 0.22295549999999995,44.84228010048253 0.22216099999999991,44.84115080048262 0.22241579999999994,44.838987200482805 0.22190829999999992,44.836790500482984 0.21648529999999994,44.83835310048285 0.21496659999999992,44.8376261004829 0.21423759999999992,44.839123100482794 0.21243349999999994,44.838983200482815 0.21015909999999996,44.841693200482574</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

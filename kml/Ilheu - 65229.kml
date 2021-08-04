@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>65229</value>
+        </Data>
+        <Data name="nom">
+          <value>Ilheu</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Ilheu</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>204</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>0.5860966999999999,42.997135500536466 0.5868497999999998,42.9979485005365 0.5915108999999998,42.999778500536536 0.5925844999999997,43.001367100536584 0.5952658999999998,43.00184110053658 0.6085146999999997,43.00227090053659 0.6096601999999999,43.004021900536635 0.6086576999999997,42.996011600536455 0.6109734999999998,42.98834140053626 0.5955695999999998,42.99083240053632 0.5912415999999998,42.9944448005364 0.5888350999999998,42.9943307005364 0.5880594999999996,42.99616740053644 0.5860966999999999,42.997135500536466</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

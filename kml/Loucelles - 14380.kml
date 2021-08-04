@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>14380</value>
+        </Data>
+        <Data name="nom">
+          <value>Loucelles</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Loucelles</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>306</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.5949816999999997,49.22007819963799 -0.5945124999999999,49.2236853996371 -0.5914463999999999,49.2293555996357 -0.5869751999999999,49.236126899634044 -0.5833604999999997,49.23481289963436 -0.5737051999999998,49.231204799635236 -0.5682632999999998,49.229760499635596 -0.5644293999999999,49.22789949963606 -0.5573512999999999,49.22546579963666 -0.5633013999999998,49.21926169963818 -0.5638587999999998,49.22081299963781 -0.5741948999999998,49.219777499638056 -0.5804080999999999,49.22029619963793 -0.5866017999999997,49.220033099638 -0.5949816999999997,49.22007819963799</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

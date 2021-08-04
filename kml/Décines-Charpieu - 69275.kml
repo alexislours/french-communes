@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>69275</value>
+        </Data>
+        <Data name="nom">
+          <value>Décines-Charpieu</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Décines-Charpieu</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>1710</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>4.932579799999998,45.74422440038029 4.932651999999998,45.74522680038016 4.936866899999997,45.76036250037802 4.936877299999997,45.76663260037713 4.935954099999999,45.769906000376665 4.970353799999999,45.80765690037126 4.975519799999999,45.8073755003713 4.9800838999999995,45.805588400371576 4.975027399999998,45.78658050037428 4.985052199999998,45.77924980037533 4.985468399999999,45.7612260003779 4.984910899999999,45.75390820037892 4.969225399999998,45.752972600379046 4.933053999999998,45.744508100380244 4.932579799999998,45.74422440038029</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>01030</value>
+        </Data>
+        <Data name="nom">
+          <value>Beauregard</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Beauregard (Ain)</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>96</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>4.748653899999998,46.00269870034207 4.748991499999998,46.0037780003419 4.752458999999999,46.003807100341895 4.753764199999998,46.00298610034202 4.759791699999998,46.00583710034158 4.762051799999999,46.00625850034152 4.764493999999999,46.000724800342375 4.763037999999998,45.99896090034267 4.763076999999998,45.99705940034295 4.760037399999999,45.997012400342946 4.756789399999998,45.99645050034304 4.755619499999998,45.99717090034293 4.749909299999998,45.996443800343044 4.748653899999998,46.00269870034207</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>95051</value>
+        </Data>
+        <Data name="nom">
+          <value>Beauchamp</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Beauchamp (Val-d'Oise)</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>300</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>2.1829157999999995,49.02538969968603 2.189553099999999,49.021833299686904 2.197456699999999,49.02096199968713 2.2057093999999995,49.01955269968747 2.2035280999999998,49.01557279968845 2.203161999999999,49.013739599688925 2.2054500999999997,49.01298479968911 2.201505799999999,49.00801669969036 2.2150741999999997,49.00351379969145 2.2132460999999997,49.00168839969189 2.1970651999999995,49.00767849969041 2.1730479999999996,49.014300299688784 2.1775023999999994,49.0194393996875 2.1808832999999996,49.023887499686396 2.1829157999999995,49.02538969968603</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

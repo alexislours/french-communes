@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>27579</value>
+        </Data>
+        <Data name="nom">
+          <value>Saint-Ouen-de-Pontcheuil</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Saint-Ouen-de-Pontcheuil</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>120</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>0.9419944999999998,49.236143999634045 0.9465187999999998,49.2382506996335 0.9500253999999995,49.24117539963281 0.9540878999999999,49.24254769963247 0.9544559999999996,49.24191959963261 0.9588653999999996,49.24180699963265 0.9568258999999997,49.240099299633066 0.9557821999999998,49.23663989963392 0.9576187999999998,49.23200239963506 0.9543171999999998,49.23032279963547 0.9509878999999996,49.22668519963635 0.9480300999999998,49.225144799636745 0.9485186999999999,49.22641459963643 0.9445728999999999,49.23304779963482 0.9419944999999998,49.236143999634045</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

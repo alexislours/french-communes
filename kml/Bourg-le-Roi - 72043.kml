@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>72043</value>
+        </Data>
+        <Data name="nom">
+          <value>Bourg-le-Roi</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Bourg-le-Roi</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>36</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>0.12869569999999994,48.34471189985432 0.12904739999999998,48.34640439985389 0.13081599999999996,48.348619299853354 0.12976189999999999,48.35020289985296 0.13627969999999998,48.34637379985391 0.13808129999999996,48.345842099854025 0.13890379999999997,48.34362959985458 0.13646659999999997,48.34139409985513 0.13501339999999995,48.342301799854894 0.12869569999999994,48.34471189985432</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

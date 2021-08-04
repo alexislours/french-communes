@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>95282</value>
+        </Data>
+        <Data name="nom">
+          <value>Gouzangrez</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Gouzangrez</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>77</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>1.8993496999999993,49.1140383996641 1.9058932999999996,49.116898799663396 1.9083570999999993,49.11985159966266 1.9086904999999998,49.11937719966279 1.9156349999999995,49.11507999966385 1.9141182999999997,49.11258379966448 1.9171060999999996,49.11104209966486 1.9138775999999995,49.10790769966562 1.9058514999999998,49.11130799966478 1.8993496999999993,49.1140383996641</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

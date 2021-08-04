@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>27633</value>
+        </Data>
+        <Data name="nom">
+          <value>Les Thilliers-en-Vexin</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Les Thilliers-en-Vexin</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>159</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>1.5929957999999995,49.23643079963397 1.5965000999999994,49.24134549963275 1.6009942999999998,49.23941419963323 1.6043747999999993,49.23982779963315 1.6108701999999993,49.24377359963216 1.6139809999999997,49.24452339963197 1.6141917999999993,49.23718549963379 1.6148006999999993,49.23641889963396 1.6112317999999997,49.23438809963446 1.6087877999999993,49.23347099963468 1.6003034999999994,49.2289253996358 1.6000914999999996,49.22850369963591 1.5943632999999995,49.23214659963501 1.5918259999999995,49.23478999963437 1.5929957999999995,49.23643079963397</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>92075</value>
+        </Data>
+        <Data name="nom">
+          <value>Vanves</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Vanves</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>155</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>2.272583799999999,48.814391799738345 2.2757929999999993,48.817172399737636 2.277095399999999,48.8174484997376 2.2818668999999994,48.82024559973691 2.2804794999999998,48.8259081997355 2.2843914999999995,48.827514199735106 2.2871955999999996,48.82747189973509 2.2893876999999994,48.82832389973488 2.2922206999999997,48.82713789973518 2.301317899999999,48.82512519973568 2.2954621999999993,48.820338999736876 2.289927099999999,48.81726699973763 2.284513599999999,48.8154138997381 2.278146299999999,48.814332699738365 2.2771798999999993,48.81534789973811 2.272583799999999,48.814391799738345</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

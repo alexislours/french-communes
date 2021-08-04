@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>65291</value>
+        </Data>
+        <Data name="nom">
+          <value>Lugagnan</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Lugagnan</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>75</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.043541799999999985,43.060521900537935 -0.04253279999999998,43.06157760053796 -0.042290899999999985,43.064279700538 -0.04316529999999999,43.06608920053806 -0.040948399999999996,43.06857460053811 -0.037140299999999994,43.067621300538086 -0.03530199999999999,43.066030600538056 -0.032620899999999994,43.06383780053801 -0.03061159999999999,43.061117500537954 -0.03286959999999999,43.059817000537926 -0.03976629999999999,43.05800570053789 -0.04200899999999999,43.058851800537894 -0.043541799999999985,43.060521900537935</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

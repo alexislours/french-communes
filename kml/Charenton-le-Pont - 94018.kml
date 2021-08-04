@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>94018</value>
+        </Data>
+        <Data name="nom">
+          <value>Charenton-le-Pont</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Charenton-le-Pont</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>185</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>2.3902558999999997,48.82572619973554 2.3943521999999997,48.82751279973508 2.4024878999999997,48.82964689973456 2.4049180999999993,48.82851749973483 2.4096218999999994,48.82541889973562 2.412616599999999,48.824815899735746 2.4160729999999995,48.82484439973575 2.4199463999999997,48.824152199735934 2.4197428999999993,48.816896399737715 2.415853799999999,48.81629989973786 2.409360799999999,48.81663349973779 2.3990778999999995,48.8203339997369 2.396374199999999,48.82154909973657 2.3902558999999997,48.82572619973554</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

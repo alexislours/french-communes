@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>26008</value>
+        </Data>
+        <Data name="nom">
+          <value>Ancône</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Ancône (Drôme)</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>171</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>4.706045499999998,44.576393700503104 4.707817399999997,44.5793926005029 4.710043499999999,44.581934300502716 4.711951899999999,44.582616700502676 4.718052099999999,44.58369370050261 4.726943899999999,44.583923800502575 4.732850299999999,44.585866000502435 4.732087799999999,44.57881480050294 4.732488399999999,44.57806000050297 4.7284172999999985,44.57671590050307 4.726801799999998,44.576936800503056 4.7239325999999995,44.57538100050318 4.718685399999998,44.57456160050323 4.711964799999999,44.575344200503174 4.706045499999998,44.576393700503104</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

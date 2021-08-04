@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>2B097</value>
+        </Data>
+        <Data name="nom">
+          <value>Costa</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Costa (Haute-Corse)</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>108</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>9.000296799999996,42.58568500052176 9.002637199999999,42.578277100521404 9.004205299999997,42.56904030052097 9.001296099999996,42.56749930052089 8.999685699999999,42.568249800520924 8.995978999999998,42.57116070052108 8.993575699999997,42.57368090052119 8.993667299999997,42.57562360052129 8.995729899999999,42.578233500521414 8.996297899999998,42.58138890052155 8.995638399999997,42.58393960052168 8.996334299999996,42.58459920052171 9.000296799999996,42.58568500052176</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

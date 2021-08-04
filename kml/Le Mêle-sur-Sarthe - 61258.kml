@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>61258</value>
+        </Data>
+        <Data name="nom">
+          <value>Le Mêle-sur-Sarthe</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Le Mêle-sur-Sarthe</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>61</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>0.34863629999999995,48.51716969981194 0.35276299999999994,48.51426899981265 0.35493399999999986,48.51319199981291 0.35838899999999996,48.50909699981393 0.3610379999999999,48.50924699981388 0.3583179999999999,48.50884299981399 0.3531989999999999,48.506065999814666 0.3499039999999999,48.5059639998147 0.34848099999999993,48.50663439981453 0.3496194999999999,48.50722669981438 0.34907829999999995,48.51025829981363 0.34708779999999995,48.51099659981346 0.3472206999999999,48.51368009981279 0.34618789999999994,48.51447929981258 0.34863629999999995,48.51716969981194</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

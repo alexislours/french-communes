@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>85134</value>
+        </Data>
+        <Data name="nom">
+          <value>Mallièvre</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Mallièvre</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>20</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.8690826999999997,46.912883700178966 -0.8679734999999996,46.91201010017913 -0.8665601999999998,46.91295240017894 -0.8631305999999996,46.91399150017872 -0.8614944999999997,46.91085690017937 -0.8624057999999998,46.90930600017968 -0.8653361999999998,46.90839060017985 -0.8661816999999997,46.91092260017936 -0.8682913999999999,46.910954900179355 -0.8690826999999997,46.912883700178966</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

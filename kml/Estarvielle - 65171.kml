@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>65171</value>
+        </Data>
+        <Data name="nom">
+          <value>Estarvielle</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Estarvielle</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>83</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>0.4091044999999998,42.82501420053139 0.4108195999999999,42.8250157005314 0.4166809999999999,42.824007200531355 0.4190484999999998,42.825269600531406 0.4205704999999999,42.825435400531426 0.4213516999999999,42.82392870053136 0.42234409999999983,42.821559300531284 0.42187139999999995,42.81861760053119 0.4206175999999998,42.818133000531176 0.4214684999999999,42.816127600531104 0.41806619999999983,42.81580950053108 0.4152521999999999,42.817308000531135 0.40990659999999984,42.817462300531155 0.40972459999999983,42.821333900531265 0.41037469999999987,42.82351130053135 0.4091044999999998,42.82501420053139</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

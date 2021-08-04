@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>31306</value>
+        </Data>
+        <Data name="nom">
+          <value>Lourde</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Lourde (Haute-Garonne)</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>124</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>0.6474518999999999,42.98213020053609 0.6541161999999999,42.98571660053619 0.6551458999999997,42.98720440053623 0.6552490999999998,42.989814000536285 0.6568459999999997,42.992610600536366 0.6616908999999997,42.99072140053631 0.6644757999999997,42.99051450053631 0.6638133999999998,42.98391370053615 0.6659207999999998,42.98060710053605 0.6608219999999998,42.981170400536065 0.6599139999999998,42.98023880053605 0.6592388999999997,42.977758400535976 0.6533606999999999,42.979867400536044 0.6503917999999997,42.98008730053604 0.6474518999999999,42.98213020053609</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>31559</value>
+        </Data>
+        <Data name="nom">
+          <value>Trébons-de-Luchon</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Trébons-de-Luchon</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>87</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>0.5610059999999999,42.80740570053079 0.5630079999999998,42.8076714005308 0.5658758999999998,42.80712420053078 0.5734755999999999,42.808362100530815 0.5767665999999999,42.808199900530816 0.5722607999999998,42.803136500530634 0.5699039999999999,42.801143500530586 0.5704108999999998,42.79581660053038 0.5675976999999998,42.79644050053041 0.5661360999999999,42.797369600530445 0.5660180999999997,42.798907300530495 0.5639530999999998,42.80273170053063 0.5615942999999999,42.802913100530624 0.5604839999999999,42.80544270053072 0.5610059999999999,42.80740570053079</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>40114</value>
+        </Data>
+        <Data name="nom">
+          <value>Gourbera</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Gourbera</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>2778</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-1.0714325999999998,43.8326059005374 -1.0711498999999998,43.8327197005374 -1.0466025999999997,43.83690930053731 -1.0369365999999998,43.83050780053746 -1.0037362999999997,43.82253530053762 -1.0130113999999997,43.80868930053795 -1.0232001999999998,43.79392290053826 -1.0298479999999999,43.78393740053848 -1.0437079999999999,43.78495170053846 -1.0434236999999997,43.78252700053851 -1.0505976999999997,43.77605190053864 -1.0763525999999997,43.78154400053852 -1.0799576999999996,43.80712550053798 -1.0806590999999999,43.81126660053789 -1.0714325999999998,43.8326059005374</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

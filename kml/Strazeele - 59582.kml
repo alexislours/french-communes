@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>59582</value>
+        </Data>
+        <Data name="nom">
+          <value>Strazeele</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Strazeele</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>470</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>2.6044834999999993,50.71789029930093 2.6070913999999994,50.721738499300194 2.606433599999999,50.72746059929912 2.6080255999999995,50.736908899297305 2.6168590999999988,50.73746039929721 2.622085899999999,50.73867249929698 2.630603399999999,50.72983489929865 2.6324746999999986,50.72714069929918 2.6327011999999996,50.72664659929925 2.6315906999999994,50.71057689930236 2.6331933999999992,50.70802709930284 2.622259999999999,50.710755999302314 2.607866499999999,50.71691029930113 2.6044834999999993,50.71789029930093</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

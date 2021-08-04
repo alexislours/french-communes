@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>07321</value>
+        </Data>
+        <Data name="nom">
+          <value>Thorrenc</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Thorrenc</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>373</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>4.7566644999999985,45.2440690004431 4.760951299999999,45.24432110044307 4.763733099999999,45.2440435004431 4.771108299999998,45.24144970044339 4.772130399999998,45.23784100044378 4.7755589999999986,45.231877200444444 4.771393099999999,45.23036960044461 4.764607599999999,45.226977400444966 4.7593806999999995,45.22640070044504 4.757959199999998,45.22531990044515 4.7553801999999985,45.22113910044561 4.749850499999998,45.22353360044535 4.7476319999999985,45.227184000444964 4.745683099999998,45.23367720044424 4.749082099999998,45.239087900443636 4.7566644999999985,45.2440690004431</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

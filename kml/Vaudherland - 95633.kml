@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>95633</value>
+        </Data>
+        <Data name="nom">
+          <value>Vaudherland</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Vaudherland</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>9</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>2.488094499999999,49.00218769969179 2.4892602999999998,49.00019879969227 2.4879892999999993,48.998922699692585 2.4857877999999998,48.999324699692494 2.4835439999999998,48.99928739969249 2.4838371999999995,49.00117209969202 2.4864138999999996,49.00122979969201 2.488094499999999,49.00218769969179</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

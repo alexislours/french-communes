@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>08294</value>
+        </Data>
+        <Data name="nom">
+          <value>La Moncelle</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:La Moncelle</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>135</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>4.9865455999999995,49.6936861995234 4.987881799999999,49.69538939952299 4.995712799999999,49.697530499522486 4.999150699999999,49.69901589952215 5.001820999999998,49.69966879952199 5.0066292999999975,49.69744019952254 5.003868599999998,49.69495849952309 5.004019799999999,49.69270699952363 5.002323199999998,49.68973729952435 5.002250299999999,49.68862749952462 5.000329799999999,49.68759799952484 4.993723099999999,49.68750849952487 4.990307199999998,49.68695559952498 4.987362899999999,49.68712709952496 4.987666199999999,49.69187739952384 4.9865455999999995,49.6936861995234</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

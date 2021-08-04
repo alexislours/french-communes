@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>39003</value>
+        </Data>
+        <Data name="nom">
+          <value>Abergement-le-Petit</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Abergement-le-Petit</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>158</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>5.685441999999998,46.90549220018043 5.688340999999998,46.90805250017993 5.6919895999999985,46.90997290017954 5.692548899999998,46.909683300179594 5.698878999999998,46.91458520017861 5.7005156999999995,46.91354140017882 5.705457699999998,46.912359400179064 5.705141599999999,46.909735600179594 5.707941099999999,46.90773700017999 5.703820299999999,46.905731000180396 5.697607599999999,46.89814180018193 5.695537999999997,46.899148600181725 5.6915591999999995,46.89994520018156 5.689183099999999,46.90118390018131 5.688515999999999,46.90344500018087 5.685441999999998,46.90549220018043</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

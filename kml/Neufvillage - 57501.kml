@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>57501</value>
+        </Data>
+        <Data name="nom">
+          <value>Neufvillage</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Neufvillage</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>61</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>6.770728799999998,48.92978579970972 6.773499999999999,48.931537899709305 6.777012799999998,48.934498499708546 6.7756330999999985,48.93560689970829 6.782478799999998,48.93955739970729 6.784833999999997,48.9399221997072 6.789613099999998,48.94131609970687 6.785240999999999,48.937580999707784 6.782872999999998,48.93457599970855 6.779947999999998,48.93153799970928 6.775415999999998,48.928943999709944 6.773580999999999,48.92714999971038 6.770728799999998,48.92978579970972</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>09320</value>
+        </Data>
+        <Data name="nom">
+          <value>Urs</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Urs (Ariège)</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>91</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>1.7302970999999994,42.784391300529975 1.7378448999999994,42.781131400529866 1.7419472999999996,42.7797809005298 1.7434077999999995,42.777864100529754 1.7430943999999993,42.77766730052973 1.7411094999999996,42.7768585005297 1.7368009999999996,42.77403860052959 1.7333212999999998,42.77232650052954 1.7330690999999994,42.772976100529576 1.7293774999999996,42.77346840052958 1.7288124999999994,42.77646360052969 1.7302970999999994,42.784391300529975</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

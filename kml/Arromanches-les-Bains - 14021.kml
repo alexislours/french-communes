@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>14021</value>
+        </Data>
+        <Data name="nom">
+          <value>Arromanches-les-Bains</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Arromanches-les-Bains</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>136</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.6330385999999999,49.33377969961011 -0.6285905999999997,49.3387300996089 -0.6274493999999998,49.338538899608935 -0.6255647999999999,49.34070079960842 -0.6202315999999999,49.34058689960846 -0.6160245999999999,49.34012179960856 -0.6109878999999999,49.34012889960856 -0.6103489999999998,49.33847839960895 -0.6116447999999997,49.33661969960943 -0.6130554999999996,49.33317209961028 -0.6133128999999998,49.33033689961095 -0.6141506999999998,49.33003369961104 -0.6185645999999999,49.330167599610995 -0.6248316999999999,49.3313639996107 -0.6330385999999999,49.33377969961011</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

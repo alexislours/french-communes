@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>90060</value>
+        </Data>
+        <Data name="nom">
+          <value>Lagrange</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Lagrange (Territoire de Belfort)</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>92</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>6.9675458999999975,47.69042420001031 6.968078799999997,47.69051820001028 6.968789299999998,47.68981730001046 6.972449199999998,47.68906430001063 6.974030199999997,47.6883000000108 6.976272099999998,47.6896342000105 6.9837596999999985,47.685942100011346 6.985707799999998,47.68430940001171 6.984462699999998,47.68272880001209 6.984117599999998,47.67879220001299 6.976825599999998,47.678273000013114 6.975597999999998,47.68090720001251 6.973128099999998,47.68336970001195 6.969514099999998,47.68766460001096 6.9675458999999975,47.69042420001031</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

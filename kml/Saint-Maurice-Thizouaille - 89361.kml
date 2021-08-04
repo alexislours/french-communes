@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>89361</value>
+        </Data>
+        <Data name="nom">
+          <value>Saint-Maurice-Thizouaille</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Saint-Maurice-Thizouaille</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>194</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>3.342576099999999,47.83112309997761 3.348606599999999,47.833738899977 3.3539456999999993,47.83553549997657 3.3562294999999986,47.83679119997628 3.365588999999999,47.83789679997602 3.370690899999999,47.839168399975726 3.373501599999999,47.83858449997586 3.3769577999999987,47.8396611999756 3.378233199999999,47.837497799976106 3.378286899999999,47.83612729997643 3.382709099999999,47.831855699977446 3.367404199999999,47.83153319997751 3.360422099999999,47.83191279997742 3.3553445999999987,47.829468499978 3.3500764999999992,47.82746929997847 3.3463752999999987,47.82653059997868 3.342576099999999,47.83112309997761</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

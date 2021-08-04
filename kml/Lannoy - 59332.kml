@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>59332</value>
+        </Data>
+        <Data name="nom">
+          <value>Lannoy</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Lannoy</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>18</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>3.2057960999999993,50.666379399310884 3.2102958999999993,50.66818969931053 3.213189299999999,50.66780229931062 3.213954599999999,50.66599819931095 3.209291699999999,50.663546999311436 3.2057960999999993,50.666379399310884</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>02225</value>
+        </Data>
+        <Data name="nom">
+          <value>Courchamps</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Courchamps (Aisne)</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>274</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>3.2467434999999987,49.12054509966251 3.250263299999999,49.12235319966208 3.2660489999999993,49.124465799661536 3.2740416999999993,49.12430589966158 3.2730804999999985,49.12110539966236 3.2748910999999987,49.1140332996641 3.2723340999999992,49.10953889966521 3.2652918999999985,49.10667789966593 3.263633499999999,49.10578909966615 3.2609082999999988,49.10981929966514 3.2583820999999986,49.11184699966465 3.2539061999999985,49.11171099966469 3.2480447999999997,49.11834169966306 3.2467434999999987,49.12054509966251</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

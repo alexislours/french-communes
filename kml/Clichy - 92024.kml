@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>92024</value>
+        </Data>
+        <Data name="nom">
+          <value>Clichy</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Clichy</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>308</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>2.287375799999999,48.90363889971621 2.292859799999999,48.90637899971552 2.295140499999999,48.90821229971507 2.2980630999999994,48.90969059971471 2.3017638999999996,48.91105319971436 2.3074602999999994,48.91215609971408 2.3137749999999997,48.91401499971363 2.3209013999999994,48.90462189971597 2.3196149999999998,48.90131299971681 2.3198894999999995,48.90045869971699 2.3185322999999993,48.89963329971718 2.3123423999999995,48.89776009971766 2.3075544999999997,48.895959799718106 2.3037933999999987,48.89417069971856 2.287375799999999,48.90363889971621</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

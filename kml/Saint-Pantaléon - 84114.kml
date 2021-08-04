@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>84114</value>
+        </Data>
+        <Data name="nom">
+          <value>Saint-Pantaléon</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Saint-Pantaléon (Vaucluse)</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>79</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>5.209486299999999,43.87657250053632 5.2107852999999995,43.87707120053631 5.212969999999999,43.8814400005362 5.217970199999997,43.88477480053612 5.220546599999999,43.8851590005361 5.220259399999999,43.88167780053618 5.221123799999999,43.87925980053625 5.2202930999999975,43.87665410053632 5.219557699999998,43.872253500536424 5.216853999999998,43.87265920053641 5.2126826999999984,43.874681500536376 5.210568799999999,43.876633900536326 5.209486299999999,43.87657250053632</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

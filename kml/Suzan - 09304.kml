@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>09304</value>
+        </Data>
+        <Data name="nom">
+          <value>Suzan</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Suzan</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>237</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>1.4212179999999999,43.029912300537255 1.4219108999999999,43.03144980053729 1.4259766999999999,43.03288900053732 1.4275370999999994,43.034026600537345 1.4368464999999992,43.03699040053742 1.4463429999999995,43.034115800537364 1.4465348999999994,43.028401000537215 1.4435939999999996,43.02529610053715 1.4328490999999997,43.02224670053708 1.4279576999999997,43.023094100537094 1.4245123999999996,43.02480900053715 1.4221389999999996,43.02777910053721 1.4212179999999999,43.029912300537255</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

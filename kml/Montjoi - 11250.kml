@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>11250</value>
+        </Data>
+        <Data name="nom">
+          <value>Montjoi</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Montjoi (Aude)</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>755</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>2.455223899999999,43.00626080053669 2.4739351999999992,43.00710620053671 2.4770806999999997,43.00636600053671 2.4900615999999998,43.006959400536715 2.4935540999999994,43.00900520053677 2.497265799999999,43.00941020053678 2.5020663999999986,43.008359400536754 2.5009905999999993,43.00697200053671 2.5027690999999996,43.00209840053661 2.4852112999999996,42.985790000536184 2.4788778999999996,42.979066300536 2.4631149999999993,42.97878300053601 2.4651032999999996,42.989229500536275 2.466005599999999,42.99700140053647 2.4591920999999997,43.00244180053661 2.455223899999999,43.00626080053669</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

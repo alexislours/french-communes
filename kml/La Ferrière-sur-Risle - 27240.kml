@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>27240</value>
+        </Data>
+        <Data name="nom">
+          <value>La Ferrière-sur-Risle</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:La Ferrière-sur-Risle</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>23</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>0.7887598999999997,48.98076959969708 0.7915389999999998,48.9815309996969 0.7894659999999997,48.97857399969765 0.7835368999999998,48.974180099698714 0.7824115999999998,48.97493619969853 0.7834451999999998,48.97560309969836 0.7819060999999997,48.97797169969778 0.7871212999999998,48.981123199696995 0.7887598999999997,48.98076959969708</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

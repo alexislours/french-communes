@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>33103</value>
+        </Data>
+        <Data name="nom">
+          <value>Castelmoron-d'Albret</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Castelmoron-d'Albret</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>3</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.012542999999999999,44.68078100049554 -0.011144999999999997,44.680336000495586 -0.010184999999999996,44.678841000495694 -0.011817999999999997,44.67864400049571 -0.012542999999999999,44.68078100049554</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

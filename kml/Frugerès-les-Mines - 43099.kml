@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>43099</value>
+        </Data>
+        <Data name="nom">
+          <value>Frugerès-les-Mines</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Frugerès-les-Mines</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>108</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>3.3001910999999997,45.3893705004264 3.306334299999999,45.3909947004262 3.306437299999999,45.39173180042613 3.3112872999999996,45.39343990042592 3.314063099999999,45.39150720042613 3.315442199999999,45.389795400426344 3.315859599999999,45.38742880042663 3.314827999999999,45.38503040042691 3.3154636999999987,45.383967700427036 3.313429999999999,45.38413730042702 3.306884099999999,45.38006120042751 3.305986699999999,45.38077520042743 3.301072699999999,45.38693680042668 3.3001910999999997,45.3893705004264</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

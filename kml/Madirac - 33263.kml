@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>33263</value>
+        </Data>
+        <Data name="nom">
+          <value>Madirac</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Madirac</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>184</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-0.4052144999999998,44.76370960048906 -0.39938959999999996,44.76291540048914 -0.3959562999999999,44.76288490048912 -0.3901369999999999,44.76356750048907 -0.3873324999999999,44.76423680048903 -0.3859115999999999,44.761555300489235 -0.3883000999999998,44.75915600048943 -0.3880290999999999,44.75670860048963 -0.3910376999999998,44.75401140048985 -0.39447989999999983,44.75032680049014 -0.3998019999999999,44.748905800490256 -0.4048594999999998,44.752869100489924 -0.4051447999999999,44.75850940048949 -0.40638679999999994,44.7607054004893 -0.4052144999999998,44.76370960048906</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

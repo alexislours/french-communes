@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>51663</value>
+        </Data>
+        <Data name="nom">
+          <value>Magenta</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Magenta (Marne)</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>99</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>3.9595159999999976,49.058892899677744 3.9611608999999994,49.06068319967731 3.9632851999999983,49.06021779967743 3.9688989999999995,49.060100499677446 3.973662899999999,49.05892409967773 3.970343699999999,49.051848299679484 3.968593399999999,49.04944449968008 3.9696879999999983,49.048493299680324 3.9678441999999987,49.0469322996807 3.9644474999999995,49.04699469968069 3.9639256999999986,49.04913899968015 3.9614863999999987,49.05222419967939 3.960745699999999,49.05485029967873 3.9613537999999986,49.05765799967806 3.9595159999999976,49.058892899677744</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

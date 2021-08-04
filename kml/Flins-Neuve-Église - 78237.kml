@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>78237</value>
+        </Data>
+        <Data name="nom">
+          <value>Flins-Neuve-Église</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Flins-Neuve-Église</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>122</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>1.5755709999999996,48.89911879971733 1.5816882999999997,48.895667999718185 1.5832515999999999,48.89387329971863 1.5846991999999998,48.891417699719234 1.5862210999999997,48.89173729971916 1.5863923999999996,48.88932369971974 1.5853591999999994,48.88804279972009 1.5815551999999995,48.88639859972048 1.5795048999999994,48.886170599720536 1.5763969999999998,48.888281799720005 1.5743473999999995,48.88650199972046 1.5699830999999995,48.890515699719465 1.5686243999999996,48.89319459971881 1.5681268999999993,48.89674909971793 1.5711226999999997,48.89718679971781 1.5755709999999996,48.89911879971733</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

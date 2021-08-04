@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="insee">
+          <value>27686</value>
+        </Data>
+        <Data name="nom">
+          <value>Vieux-Port</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>fr:Vieux-Port (Eure)</value>
+        </Data>
+        <Data name="surf_ha">
+          <value>57</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>0.5991931999999998,49.428934599586924 0.6014591999999997,49.428730499586976 0.6078462999999997,49.42883919958694 0.6144656999999998,49.42991589958669 0.6151359999999999,49.43000129958667 0.6151757999999999,49.42612199958763 0.6121727999999997,49.424927599587896 0.6103096999999998,49.422924599588384 0.6083463999999998,49.42243929958852 0.6065813999999999,49.42397059958813 0.6038420999999998,49.42548049958777 0.5985872999999998,49.42717599958736 0.5991931999999998,49.428934599586924</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>
